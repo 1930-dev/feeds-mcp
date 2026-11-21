@@ -68,3 +68,5 @@ Or install the plugin, which adds the server and a skill that teaches the agent 
 Feeds is an independent service. It is not affiliated with or endorsed by X Corp. or LinkedIn Corporation. Docs: <https://usefeeds.com/docs/mcp>. Contact: hello@usefeeds.com.
 
 This repository holds configuration, the plugin, the skill, and examples. The server is hosted at usefeeds.com.
+
+`scripts/publish-registry.mjs` publishes `server.json` to the [MCP Registry](https://registry.modelcontextprotocol.io). It reads the ed25519 key of the `usefeeds.com` domain proof from standard input. The public key is at <https://usefeeds.com/.well-known/mcp-registry-auth>.
