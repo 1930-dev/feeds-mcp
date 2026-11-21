@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.usefeeds/feeds",
+  "title": "Feeds",
+  "description": "New posts from any X or LinkedIn account for your agent. Hosted, no LinkedIn login.",
+  "version": "1.0.0",
+  "websiteUrl": "https://usefeeds.com/mcp-server",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://usefeeds.com/mcp"
+    },
+    {
+      "type": "streamable-http",
+      "url": "https://usefeeds.com/mcp/try"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/1930-dev/feeds-mcp",
+    "source": "github"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "feeds",
+  "description": "New posts from any X or LinkedIn account for your agent: a hosted MCP server and a skill. No LinkedIn login.",
+  "version": "1.0.0",
+  "author": { "name": "Feeds", "url": "https://usefeeds.com" },
+  "homepage": "https://usefeeds.com/mcp-server",
+  "repository": "https://github.com/1930-dev/feeds-mcp",
+  "license": "MIT",
+  "keywords": ["linkedin", "twitter", "x", "mcp", "rss", "social media", "monitoring"]
+}

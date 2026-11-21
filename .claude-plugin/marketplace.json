@@ -1,0 +1,11 @@
+{
+  "name": "feeds",
+  "owner": { "name": "Feeds", "url": "https://usefeeds.com" },
+  "plugins": [
+    {
+      "name": "feeds",
+      "source": "./",
+      "description": "New posts from any X or LinkedIn account for your agent: a hosted MCP server and a skill."
+    }
+  ]
+}
