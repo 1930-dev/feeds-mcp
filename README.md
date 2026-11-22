@@ -9,7 +9,7 @@ https://usefeeds.com/mcp        # full server: OAuth or an API key
 https://usefeeds.com/mcp/try    # no account: estimate_cost and preview_posts
 ```
 
-[![Add to Cursor](https://img.shields.io/badge/Add_to-Cursor-000?logo=cursor)](https://cursor.com/en/install-mcp?name=feeds&config=eyJ1cmwiOiAiaHR0cHM6Ly91c2VmZWVkcy5jb20vbWNwIn0%3D) [![Add to VS Code](https://img.shields.io/badge/Add_to-VS_Code-0078d4?logo=visualstudiocode)](https://insiders.vscode.dev/redirect/mcp/install?name=feeds&config=%7B%22type%22%3A%20%22http%22%2C%20%22url%22%3A%20%22https%3A//usefeeds.com/mcp%22%7D)
+[![Add to Cursor](https://img.shields.io/badge/Add_to-Cursor-000?logo=cursor)](https://cursor.com/en/install-mcp?name=feeds&config=eyJ1cmwiOiAiaHR0cHM6Ly91c2VmZWVkcy5jb20vbWNwIn0%3D) [![Add to VS Code](https://img.shields.io/badge/Add_to-VS_Code-0078d4?logo=visualstudiocode)](https://insiders.vscode.dev/redirect/mcp/install?name=feeds&config=%7B%22type%22%3A%20%22http%22%2C%20%22url%22%3A%20%22https%3A//usefeeds.com/mcp%22%7D) [![mcptry](https://mcptry.com/badge/com.usefeeds/feeds)](https://mcptry.com/servers/com.usefeeds/feeds)
 
 ## What your agent can do
 
