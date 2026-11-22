@@ -3,8 +3,17 @@
   "name": "com.usefeeds/feeds",
   "title": "Feeds",
   "description": "New posts from any X or LinkedIn account for your agent. Hosted, no LinkedIn login.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://usefeeds.com/mcp-server",
+  "icons": [
+    {
+      "src": "https://usefeeds.com/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
